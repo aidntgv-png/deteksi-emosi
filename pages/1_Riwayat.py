@@ -39,7 +39,7 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-st.page_link("app_streamlit.py", label="⬅️ Kembali ke Deteksi", icon="🔙")
+st.page_link("streamlit_app.py", label="⬅️ Kembali ke Deteksi", icon="🔙")
 
 EMOJI_MAP = {
     "happy": "😄", "sad": "😢", "angry": "😠", "surprise": "😲",
