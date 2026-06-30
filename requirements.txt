@@ -1,7 +1,8 @@
 streamlit
 streamlit-webrtc
 opencv-python-headless
-deepface
-tf-keras
+tensorflow==2.15.0
+tf-keras==2.15.0
+deepface==0.0.93
 av
 pandas
